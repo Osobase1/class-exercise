@@ -1,0 +1,17 @@
+.menu-bar {
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(233, 196, 255);
+}
+.menu-items {
+  padding: 20px;
+  background-color: rgb(0, 238, 255);
+  color: black;
+  border-radius: 10px;
+  text-decoration: none;
+}
+.menu-items a {
+  margin: 10px;
+}
